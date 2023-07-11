@@ -6,12 +6,12 @@ enum 50501 "Fuel Types"
     {
         Caption = 'Petrol';
     }
-    value(1; " Diesel")
+    value(1; Diesel)
     {
-        Caption = ' Diesel';
+        Caption = 'Diesel';
     }
-    value(2; " Electric")
+    value(2; Electric)
     {
-        Caption = ' Electric';
+        Caption = 'Electric';
     }
 }
